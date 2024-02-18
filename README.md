@@ -1,1 +1,2 @@
 # full-stack-development-1
+I'm full stack solution achitect The crossover between design and programming has always been of interest to me, i've been lucky enough to work alongside some talentes teams on a number of high profile website.i have a wide range of skills that include back-end development using open source technologies(Nodejs),design(working closely with designers),front-end development(React,Reactus,HTML,CSS3,Javascript,Responsive,UX,database(MongoDB,Mysql)
